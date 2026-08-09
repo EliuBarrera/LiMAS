@@ -1,4 +1,4 @@
-# Learning Management & Analytics System (LMAS)
+# Learning Management & Analytics System (LiMAS)
 
 ## Objetivo
 

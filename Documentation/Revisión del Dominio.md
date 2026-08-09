@@ -1,24 +1,3 @@
-# Revisión del Dominio (Clean Architecture + DDD)
-
-## Evaluación general
-
-La organización actual del dominio es muy buena y sigue correctamente los principios de **Clean Architecture** y una aproximación inicial a **Domain-Driven Design (DDD)**.
-
-### Calificación
-
-| Aspecto | Nota |
-|----------|------|
-| Organización | 10/10 |
-| Separación por dominio | 10/10 |
-| Uso de Value Objects | 9.5/10 |
-| Repositorios | 10/10 |
-| Escalabilidad | 9.5/10 |
-| Aplicación de DDD | 8.5/10 |
-
-**Calificación general: 9.5/10**
-
----
-
 # Correcciones propuestas
 
 ## 1. Reemplazar el módulo `exercise` por `practice`
