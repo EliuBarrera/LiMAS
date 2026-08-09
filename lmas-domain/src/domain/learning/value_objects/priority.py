@@ -1,0 +1,8 @@
+"""Prioridad de un LearningObjective."""
+from enum import Enum
+
+
+class Priority(str, Enum):
+    LOW = "low"
+    MEDIUM = "medium"
+    HIGH = "high"
